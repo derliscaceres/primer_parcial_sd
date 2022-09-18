@@ -14,10 +14,10 @@
 -Volver a verificar en la terminal del server la operación<
 
 #Modificaciones#
--Cambié el nombre de la base de datos a conectar (cambios_bd), mismo user y pass que el proyecto original.
+>-Cambié el nombre de la base de datos a conectar (cambios_bd), mismo user y pass que el proyecto original.
 -Cambié la clase Persona a Cambio con los atributos:
     *identi: nombre de la entidad*
     *compra: valor del dolar a la compra*
     *venta: valor del colar a la venta*
 -Ajusté la representación JSON de la clase Cambio
--El formato en el que se imprime en los terminales.
+-El formato en el que se imprime en los terminales.<
