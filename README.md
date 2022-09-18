@@ -1,6 +1,6 @@
 # primer_parcial_sd - Derlis Cáceres 4.290.382
 -Crear base de datos sql llamada "cambios_sd" (modificado en la clase CambioDAO.java\n
--Agregar una tabla llamada cambios con tres columnas (identi char var, compra int, venta int)\n
+>-Agregar una tabla llamada cambios con tres columnas (identi char var, compra int, venta int)\n
 -Conectar la base de datos\n
 -Iniciar la clase UDPServer.java y esperar al cliente\n
 -Iniciar la clase UDPClient.java\n
